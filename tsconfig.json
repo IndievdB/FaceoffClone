@@ -16,9 +16,9 @@
         "noEmit": true,
         "jsx": "react-jsx",
         "experimentalDecorators": true,
-        "baseUrl": "FaceoffClone",
+        "baseUrl": ".",
         "paths": {
-            "@assets/*": ["./src/assets/*"],
+            "@FaceoffClone/assets/*": ["./src/assets/*"],
             "@components/*": ["./src/components/*"],
             "@constants/*": ["./src/constants/*"],
             "@contexts/*": ["./src/contexts/*"],
