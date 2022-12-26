@@ -18,15 +18,15 @@
         "experimentalDecorators": true,
         "baseUrl": ".",
         "paths": {
-            "@assets/*": ["./FaceoffClone/src/assets/*"],
-            "@components/*": ["./FaceoffClone/src/components/*"],
-            "@constants/*": ["./FaceoffClone/src/constants/*"],
-            "@contexts/*": ["./FaceoffClone/src/contexts/*"],
-            "@data/*": ["./FaceoffClone/src/data/*"],
-            "@hooks/*": ["./FaceoffClone/src/hooks/*"],
-            "@store/*": ["./FaceoffClone/src/store/*"],
-            "@styles/*": ["./FaceoffClone/src/styles/*"],
-            "@utilities/*": ["./FaceoffClone/src/utilities/*"]
+            "@assets/*": ["./src/assets/*"],
+            "@components/*": ["./src/components/*"],
+            "@constants/*": ["./src/constants/*"],
+            "@contexts/*": ["./src/contexts/*"],
+            "@data/*": ["./src/data/*"],
+            "@hooks/*": ["./src/hooks/*"],
+            "@store/*": ["./src/store/*"],
+            "@styles/*": ["./src/styles/*"],
+            "@utilities/*": ["./src/utilities/*"]
         }
     },
     "include": ["src"],
