@@ -1,19 +1,19 @@
-import answerReveal from 'FaceoffClone/assets/audio/effects/answer_reveal.mp3';
-import gameEnd from 'FaceoffClone/@assets/audio/effects/game_end.mp3';
-import playerDisconnect from 'FaceoffClone/@assets/audio/effects/player_disconnect.mp3';
-import playerJoin from 'FaceoffClone/@assets/audio/effects/player_join.mp3';
-import playerLeave from 'FaceoffClone/@assets/audio/effects/player_leave.mp3';
-import playerReconnect from 'FaceoffClone/@assets/audio/effects/player_reconnect.mp3';
-import points from 'FaceoffClone/@assets/audio/effects/points.mp3';
-import promptReveal from 'FaceoffClone/@assets/audio/effects/prompt_reveal.mp3';
-import resultCorrect from 'FaceoffClone/@assets/audio/effects/result_correct.mp3';
-import resultIncorrect from 'FaceoffClone/@assets/audio/effects/result_incorrect.mp3';
-import submission from 'FaceoffClone/@assets/audio/effects/submission.mp3';
-import timerDone from 'FaceoffClone/@assets/audio/effects/timer_done.mp3';
-import timerDoneAlarm from 'FaceoffClone/@assets/audio/effects/timer_done_alarm.mp3';
-import timerStart from 'FaceoffClone/@assets/audio/effects/timer_start.mp3';
-import timerWarning from 'FaceoffClone/@assets/audio/effects/timer_warning.mp3';
-import timer from 'FaceoffClone/@assets/audio/effects/timer.mp3';
+import answerReveal from '/assets/audio/effects/answer_reveal.mp3';
+import gameEnd from '/@assets/audio/effects/game_end.mp3';
+import playerDisconnect from '/@assets/audio/effects/player_disconnect.mp3';
+import playerJoin from '/@assets/audio/effects/player_join.mp3';
+import playerLeave from '/@assets/audio/effects/player_leave.mp3';
+import playerReconnect from '/@assets/audio/effects/player_reconnect.mp3';
+import points from '/@assets/audio/effects/points.mp3';
+import promptReveal from '/@assets/audio/effects/prompt_reveal.mp3';
+import resultCorrect from '/@assets/audio/effects/result_correct.mp3';
+import resultIncorrect from '/@assets/audio/effects/result_incorrect.mp3';
+import submission from '/@assets/audio/effects/submission.mp3';
+import timerDone from '/@assets/audio/effects/timer_done.mp3';
+import timerDoneAlarm from '/@assets/audio/effects/timer_done_alarm.mp3';
+import timerStart from '/@assets/audio/effects/timer_start.mp3';
+import timerWarning from '/@assets/audio/effects/timer_warning.mp3';
+import timer from '/@assets/audio/effects/timer.mp3';
 
 enum OneShot {
     AnswerReveal = 'AnswerReveal',
