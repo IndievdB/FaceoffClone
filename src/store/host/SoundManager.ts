@@ -1,4 +1,4 @@
-import answerReveal from 'FaceoffClone/@assets/audio/effects/answer_reveal.mp3';
+import answerReveal from 'FaceoffClone/assets/audio/effects/answer_reveal.mp3';
 import gameEnd from 'FaceoffClone/@assets/audio/effects/game_end.mp3';
 import playerDisconnect from 'FaceoffClone/@assets/audio/effects/player_disconnect.mp3';
 import playerJoin from 'FaceoffClone/@assets/audio/effects/player_join.mp3';
